@@ -6,7 +6,7 @@ This work is largerly based on contributions and MATLAB packages developed by ot
 * `NFFT - Nonequispaced FFT` (Keiner et al. Using NFFT 3 - a software library for various nonequispaced fast Fourier transforms. ACM Trans Math Software. 2009. 36, Article 19, 1-30.)
 * `TensorReg` (Zhou and Li. Regularized matrix regression. Journal of Royal Statistical Society Series B. 2013. 76(2):463-483.)
 
-
+Please refer to the new repository https://github.com/thierleft/3Dspharm-decomposition-tumor-python for detailed demo in Python.
 
 <img src="image/figure.png" alt="3D SPHARM analysis pipeline" width="70%" />
 
